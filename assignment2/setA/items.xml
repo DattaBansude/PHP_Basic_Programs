@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+    <itemName>mango</itemName>
+    <itemprice>200</itemprice>
+    <Quantity>5</Quantity>
+    </item>
+    <item>
+    <itemName>apple</itemName>
+    <itemprice>300</itemprice>
+    <Quantity>20</Quantity>
+    </item>
+    <item>
+    <itemName>banana</itemName>
+    <itemprice>100</itemprice>
+    <Quantity>24</Quantity>
+    </item>
+    <item>
+    <itemName>grapes</itemName>
+    <itemprice>100</itemprice>
+    <Quantity>1</Quantity>
+    </item>
+    <item>
+    <itemName>orange</itemName>
+    <itemprice>150</itemprice>
+    <Quantity>5</Quantity>
+    </item>
+    <item>
+    <itemName>lemon</itemName>
+    <itemprice>20</itemprice>
+    <Quantity>1</Quantity>
+    </item>
+
+
+
+
+
+
+
+
+</items>

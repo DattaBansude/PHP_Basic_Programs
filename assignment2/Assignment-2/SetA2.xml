@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="SetA2.css"?>
+<Items><Item Type="Book"><ItemName>Balbharati</ItemName><ItemPrice>200</ItemPrice><Quantity>1</Quantity></Item><Item Type="Watch"><ItemName>Titan</ItemName><ItemPrice>2500</ItemPrice><Quantity>1</Quantity></Item><Item Type="Flower"><ItemName>Rose</ItemName><ItemPrice>50</ItemPrice><Quantity>5</Quantity></Item><Item Type="Pen"><ItemName>Cello</ItemName><ItemPrice>30</ItemPrice><Quantity>3</Quantity></Item><Item Type="Laptop"><ItemName>Dell</ItemName><ItemPrice>1</ItemPrice><Quantity>40000</Quantity></Item></Items>
